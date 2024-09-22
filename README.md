@@ -1,2 +1,1 @@
-# Git_A-to-Z-Course
-it is a repository for learning git learned from hitesh chaudhary sir
+<img src="https://github.com/user-attachments/assets/bc716ab4-da47-453f-83ff-b11a1141c596"/>
