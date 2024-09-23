@@ -1,0 +1,23 @@
+git status
+-->to check status of folder
+
+touch filename1 filename2 .....
+--> to create file in format
+
+ls
+--> to check what are the file present in repository
+
+clear
+--> it will clear the commands
+
+git add filename1 filename2 .....
+--> to track keeping of files  
+
+git commit -m "type message what you added in file"
+--> commit message show done tell through message
+
+git log
+--> show commited message for a file status
+
+git log --oneline
+--> show commit id and commited message
