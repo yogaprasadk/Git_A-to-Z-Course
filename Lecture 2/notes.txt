@@ -1,0 +1,25 @@
+git config --global user.name "yogaprasadk"
+-->to setup gitusername to git
+
+git config --global user.name
+-->to confirm that you have set the git username correctly"
+
+git config --global user.email "yogaprasadf12@gmail.com"
+-->to setup githubemailid to git
+
+git config --global core.editor "code --wait"
+--> it will change default editor to vs code
+
+
+touch .gitignore
+--> create gitignore files in the repository
+
+to ignore files from git add filename in the .gitignore
+example: .env
+
+to ignore folder from git add foldername in the .gitignore
+example: node_modules/
+
+git add .
+--> it will be to track of all file in the repository
+
