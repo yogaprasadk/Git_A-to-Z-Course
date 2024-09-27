@@ -10,7 +10,6 @@ git config --global user.email "yogaprasadf12@gmail.com"
 git config --global core.editor "code --wait"
 --> it will change default editor to vs code
 
-
 touch .gitignore
 --> create gitignore files in the repository
 
@@ -23,3 +22,5 @@ example: node_modules/
 git add .
 --> it will be to track of all file in the repository
 
+ls -la
+it is used to show hidden files in a folder
