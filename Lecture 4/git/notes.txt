@@ -1,0 +1,2 @@
+git diff
+--> diff commands show the difference.it is not show the difference between file a and file b
