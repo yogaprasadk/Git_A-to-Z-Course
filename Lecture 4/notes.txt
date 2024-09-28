@@ -1,0 +1,20 @@
+git diff
+--> commands show the difference.it is not show the difference between file a and file b
+
+git diff --staged
+--> show the entire code or text in the editor
+
+git diff commitid ex: git diff 75d484d 6c0d53c
+--> check difference between files edited betwee the branches
+
+git stash
+--> save the working directory
+
+git stash pop 
+--> it bring back saved files in the directory
+
+git stash list
+--> it show stash id 
+
+git stash apply stash@{id}
+--> it apply changes and keep 
