@@ -1,0 +1,18 @@
+git branch
+
+git branch nav-bar
+--> to create branch for navigation bar
+
+git checkout (branchaname) ex:git checkout nav-bar
+--> to change branch from master to anyother braches
+
+git merge (branchaname)	
+-->to merge the branches
+
+git brach -d branchname
+--> it will delete branch from your git
+
+
+	
+
+	
