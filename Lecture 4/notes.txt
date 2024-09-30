@@ -17,4 +17,7 @@ git stash list
 --> it show stash id 
 
 git stash apply stash@{id}
---> it apply changes and keep 
+--> it apply changes and keep changes and show it
+
+git reflog 
+--> change to HEAD 

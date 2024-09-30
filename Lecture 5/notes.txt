@@ -1,0 +1,8 @@
+--> git commit -am " "
+adding and committing at the same time
+
+-->git rebase branchname
+it will rebase the brach
+
+--> git rebase --continue
+it will continue the rebase process
