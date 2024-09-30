@@ -1,0 +1,15 @@
+git branch -M rename(branchname)
+-->it is used to rename the branch name of existing branch
+example: git branch -M master 
+
+git remote -v 
+it will check there is any remote configuration 
+
+git remote add origin https://github.com/yogaprasadk/Git_A-to-Z-Course.git
+--> first step of configure for pushing code to github repo 
+
+git push -u origin main
+--> it will able to upload your files to github repo
+
+git clone https://github.com/yogaprasadk/Git_A-to-Z-Course.git
+-->it is used to download the repository from github
